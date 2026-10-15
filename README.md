@@ -115,4 +115,4 @@ Coded by [ZaneColeRileyDev](https://github.com/ZaneColeRileyDev), brought to you
 
 ## License
 
-No license has been specified yet. Consider adding one, such as [MIT](https://choosealicense.com/licenses/mit/).
+MIT
